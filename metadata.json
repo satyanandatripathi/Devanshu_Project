@@ -1,0 +1,11 @@
+{
+  "name": "CypherStream",
+  "description": "An encrypted live streaming platform using WebRTC. Create rooms, join streams, and chat privately.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
